@@ -1,6 +1,6 @@
 # rescue-audit
 
-A quick health check for codebases that were built in a hurry.
+A quick health check for codebases that were built in a hurry. Doesn't burn your tokens!
 
 Point it at a project and it lists the problems that most often bite a
 fast-built MVP once real users arrive. It is a first pass, not a full review:
